@@ -58,7 +58,8 @@ azure-ai-search-lab/
 - Azure Blob Storage
 - JSON para consultas no Search Explorer
 
-## 📄 Licença
+## 📧 Contato
+[email](mailto:fagundz@gmail.com) | 
+[Linkedin](https://www.linkedin.com/in/ricardofagundes/)
 
-Este projeto é apenas para fins educacionais.
 
