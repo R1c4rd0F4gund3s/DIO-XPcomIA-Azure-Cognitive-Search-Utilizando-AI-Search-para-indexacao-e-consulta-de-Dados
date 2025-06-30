@@ -22,6 +22,27 @@ Este repositório contém os registros e insights do laboratório focado na apli
 
 A estrutura de pastas do projeto foi pensada para organizar de forma clara e eficiente os registros das etapas, os dados utilizados e os resultados obtidos.
 
+.
+├── docs/
+│   ├── relatorio_final.md
+│   └── insights.md
+├── data/
+│   ├── raw/
+│   └── processed/
+├── notebooks/
+│   ├── ingestao_dados.ipynb
+│   ├── criacao_indices.ipynb
+│   └── exploracao_dados.ipynb
+├── scripts/
+│   ├── ingestao.py
+│   ├── indexacao.py
+│   └── pesquisa.py
+├── config/
+│   └── settings.py
+├── .gitignore
+├── README.md
+└── requirements.txt
+
 ---
 ## 💡 Visão Geral do Laboratório
 
