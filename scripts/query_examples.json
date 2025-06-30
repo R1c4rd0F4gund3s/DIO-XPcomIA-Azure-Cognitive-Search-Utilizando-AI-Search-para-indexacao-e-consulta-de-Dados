@@ -1,0 +1,23 @@
+[
+  {
+    "search": "love",
+    "queryType": "simple"
+  },
+  {
+    "search": "Seattle",
+    "queryType": "simple"
+  },
+  {
+    "search": "paintings OR watercolors OR art",
+    "queryType": "full"
+  },
+  {
+    "search": "wi-fi OR internet",
+    "queryType": "full"
+  },
+  {
+    "search": "*",
+    "queryType": "simple",
+    "select": "*"
+  }
+]
