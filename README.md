@@ -23,15 +23,14 @@ azure-ai-search-lab/
 │   └── reviews/                # Contém os arquivos de avaliações dos clientes
 │
 ├── scripts/
-│   ├── upload_documents.ps1    # Script para upload dos documentos no Blob Storage
 │   └── query_examples.json     # Exemplos de queries para o Search Explorer
 │
 ├── docs/
 │   └── instrucoes.pdf          # Arquivo original de instruções do laboratório
 │
 ├── .gitignore
-├── README.md
-└── LICENSE
+│
+└── README.md
 ```
 ## 🛠️ Pré-requisitos
 
